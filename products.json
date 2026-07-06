@@ -1,5 +1,19 @@
 [
   {
+    "model": "Jawad",
+    "name": "Jawad",
+    "category": "سيراميك حمامات",
+    "use": "Jawad",
+    "size": "Jawad",
+    "color": "Jawad",
+    "origin": "Jawad",
+    "finish": "Jawad",
+    "surface": "Jawad",
+    "price": "12",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/Jawad-1783353457747.jpg"
+  },
+  {
     "model": "Mjood",
     "name": "Mjood",
     "category": "سيراميك حمامات",
