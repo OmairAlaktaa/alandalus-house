@@ -1,19 +1,5 @@
 [
   {
-    "model": " اسم المنتج الموديل",
-    "name": "اسم المنتج",
-    "category": "التصنيف",
-    "use": "الاستخدام",
-    "size": "المقاس",
-    "color": "اللون",
-    "origin": "المنشأ",
-    "finish": "التشطيب",
-    "surface": "السطح",
-    "price": "20",
-    "description": "",
-    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/product-1783540465975.png"
-  },
-  {
     "model": "AH-001",
     "name": "بورسلان فاخر رمادي 60x120 سم",
     "category": "بورسلان",
