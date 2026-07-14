@@ -1,5 +1,21 @@
 [
   {
+    "model": "test",
+    "name": "test",
+    "category": "بورسلان",
+    "use": "test",
+    "size": "test",
+    "color": "test",
+    "origin": "test",
+    "finish": "test",
+    "surface": "test",
+    "price": "22",
+    "description": "test test test test test test test ",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/test-1784052981989.png",
+    "dateAdded": "2026-07-14",
+    "availability": "متوفر"
+  },
+  {
     "model": "AH-001",
     "name": "بورسلان فاخر رمادي 60x120 سم",
     "category": "بورسلان",
@@ -11,7 +27,9 @@
     "surface": "مطفي",
     "price": "25€",
     "description": "بورسلان فاخر بلون رمادي ومقاس 60x120 سم، مناسب للأرضيات والجدران بتصميم أنيق للمنازل والمشاريع الحديثة.",
-    "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=900&q=85"
+    "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=900&q=85",
+    "dateAdded": "2026-07-14",
+    "availability": "متوفر"
   },
   {
     "model": "AH-002",
@@ -25,7 +43,9 @@
     "surface": "مطفي",
     "price": "32€",
     "description": "سيراميك حمامات بلون رمادي فاتح، مناسب لجدران الحمام مع مظهر هادئ وفاخر وسهل التنظيف.",
-    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=85"
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=85",
+    "dateAdded": "2026-07-14",
+    "availability": "متوفر"
   },
   {
     "model": "AH-003",
@@ -39,7 +59,9 @@
     "surface": "لامع",
     "price": "39€",
     "description": "سيراميك مطابخ كريمي بتشطيب لامع، يعطي إحساساً دافئاً ونظيفاً للمطابخ العصرية.",
-    "image": "https://images.unsplash.com/photo-1600489000022-c2086d79f9d4?auto=format&fit=crop&w=900&q=85"
+    "image": "https://images.unsplash.com/photo-1600489000022-c2086d79f9d4?auto=format&fit=crop&w=900&q=85",
+    "dateAdded": "2026-07-14",
+    "availability": "متوفر"
   },
   {
     "model": "AH-004",
@@ -53,7 +75,9 @@
     "surface": "خشن",
     "price": "46€",
     "description": "سيراميك أرضيات رمادي بسطح خشن مناسب للاستخدام الداخلي، بتصميم عملي وأنيق.",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=85"
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=85",
+    "dateAdded": "2026-07-14",
+    "availability": "متوفر"
   },
   {
     "model": "AH-005",
@@ -67,7 +91,9 @@
     "surface": "مقاوم للانزلاق",
     "price": "53€",
     "description": "سيراميك خارجي بني للمداخل والتراسات، مقاوم للانزلاق ومناسب للمساحات الخارجية.",
-    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=900&q=85"
+    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=900&q=85",
+    "dateAdded": "2026-07-14",
+    "availability": "متوفر"
   },
   {
     "model": "AH-006",
@@ -81,6 +107,8 @@
     "surface": "لامع",
     "price": "60€",
     "description": "قطعة ديكور سيراميك ذهبية فاخرة لإضافة لمسة راقية على الجدران المميزة.",
-    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=85"
+    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=85",
+    "dateAdded": "2026-07-14",
+    "availability": "متوفر"
   }
 ]
