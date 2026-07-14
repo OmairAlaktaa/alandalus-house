@@ -1,21 +1,5 @@
 [
   {
-    "model": "test",
-    "name": "test",
-    "category": "بورسلان",
-    "use": "test",
-    "size": "test",
-    "color": "test",
-    "origin": "test",
-    "finish": "test",
-    "surface": "test",
-    "price": "22",
-    "description": "test test test test test test test ",
-    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/test-1784052981989.png",
-    "dateAdded": "2026-07-14",
-    "availability": "متوفر"
-  },
-  {
     "model": "AH-001",
     "name": "بورسلان فاخر رمادي 60x120 سم",
     "category": "بورسلان",
