@@ -62,21 +62,5 @@
     "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=85",
     "dateAdded": "2026-07-14",
     "availability": "متوفر"
-  },
-  {
-    "model": "AH-005",
-    "name": "سيراميك خارجي بني 40x80 سم",
-    "category": "سيراميك خارجي",
-    "use": "تراس وحدائق",
-    "size": "40x80 سم",
-    "color": "بني",
-    "origin": "أوروبا",
-    "finish": "مقاوم للانزلاق",
-    "surface": "مقاوم للانزلاق",
-    "price": "53€",
-    "description": "سيراميك خارجي بني للمداخل والتراسات، مقاوم للانزلاق ومناسب للمساحات الخارجية.",
-    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=900&q=85",
-    "dateAdded": "2026-07-14",
-    "availability": "متوفر"
   }
 ]
