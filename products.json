@@ -1,5 +1,21 @@
 [
   {
+    "model": "AGG-02",
+    "name": "أبواب wpc",
+    "category": "أبواب wpc",
+    "use": "أبواب داخلية",
+    "size": "205*98*12",
+    "color": "احمر محروق وبني",
+    "origin": "صيني",
+    "finish": "",
+    "surface": "مت",
+    "price": "220$",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AGG-02-1784744943092.jpg",
+    "dateAdded": "2026-07-22",
+    "availability": "متوفر"
+  },
+  {
     "model": "AGG-01",
     "name": "أبواب wpc ",
     "category": "أبواب wpc",
