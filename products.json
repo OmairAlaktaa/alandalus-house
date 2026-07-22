@@ -1,7 +1,7 @@
 [
   {
-    "model": "AH-001",
-    "name": "بورسلان فاخر رمادي 60x120 سم",
+    "model": "4001",
+    "name": "بورسلان ترافلتينو بيج لميع 60x120 سم",
     "category": "بورسلان أرضيات وجدران",
     "use": "أرضيات وجدران",
     "size": "60x120 سم",
@@ -9,7 +9,7 @@
     "origin": "إسبانيا",
     "finish": "مطفي",
     "surface": "مطفي",
-    "price": "25€",
+    "price": "25$",
     "description": "بورسلان ترافلتينو بيج اسباني لميع 60*120",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AH-001-1784738726572.jpg",
     "dateAdded": "2026-07-14",
