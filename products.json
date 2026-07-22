@@ -1,5 +1,21 @@
 [
   {
+    "model": "4020",
+    "name": "بورسلان بولارس كريم سوفت 60*120",
+    "category": "أرضيات",
+    "use": "أرضيات",
+    "size": "60x120 سم",
+    "color": "كريمي",
+    "origin": "أسباني",
+    "finish": "",
+    "surface": "لميع",
+    "price": "21$",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4020-1784744407078.jpg",
+    "dateAdded": "2026-07-22",
+    "availability": "متوفر"
+  },
+  {
     "model": "4012",
     "name": "موزاييك مسابح أوشن بولورينتو",
     "category": "مسابح",
