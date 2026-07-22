@@ -1,5 +1,21 @@
 [
   {
+    "model": "5001",
+    "name": "بورتو بلاتا ازول سيراميك لوتس ",
+    "category": "سيراميك مسابح",
+    "use": "سيراميك مسابح ",
+    "size": "33.3*33.3",
+    "color": "ازرق",
+    "origin": "أسباني",
+    "finish": "",
+    "surface": "مت",
+    "price": "17$",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5001-1784741262209.jpg",
+    "dateAdded": "2026-07-22",
+    "availability": "متوفر"
+  },
+  {
     "model": "4017",
     "name": "ارضيات اسباني تجاري 60*120",
     "category": "بورسلان أرضيات",
