@@ -1,5 +1,21 @@
 [
   {
+    "model": "4023",
+    "name": "بورسلان مسابح سويرل بلو 15*15",
+    "category": "مسابح",
+    "use": "مسابح ",
+    "size": "15*15",
+    "color": "ازرق",
+    "origin": "أسباني",
+    "finish": "",
+    "surface": "لميع",
+    "price": "36$",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4023-1784744626648.jpg",
+    "dateAdded": "2026-07-22",
+    "availability": "متوفر"
+  },
+  {
     "model": "4022",
     "name": "بورسلان مسابح بيتش بلو 15*15",
     "category": "مسابح",
