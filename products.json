@@ -46,21 +46,5 @@
     "image": "https://images.unsplash.com/photo-1600489000022-c2086d79f9d4?auto=format&fit=crop&w=900&q=85",
     "dateAdded": "2026-07-14",
     "availability": "متوفر"
-  },
-  {
-    "model": "AH-004",
-    "name": "سيراميك أرضيات رمادي 45x45 سم",
-    "category": "سيراميك أرضيات",
-    "use": "أرضيات داخلية",
-    "size": "45x45 سم",
-    "color": "رمادي",
-    "origin": "إسبانيا",
-    "finish": "خشن",
-    "surface": "خشن",
-    "price": "46€",
-    "description": "سيراميك أرضيات رمادي بسطح خشن مناسب للاستخدام الداخلي، بتصميم عملي وأنيق.",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=85",
-    "dateAdded": "2026-07-14",
-    "availability": "متوفر"
   }
 ]
