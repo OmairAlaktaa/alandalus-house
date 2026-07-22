@@ -1,5 +1,21 @@
 [
   {
+    "model": "4002",
+    "name": "بورسلان ترافلتينو ابيض لميع 60x120 سم",
+    "category": "بورسلان أرضيات وجدران",
+    "use": "أرضيات وجدران",
+    "size": "60x120 سم",
+    "color": "ترافلتينو",
+    "origin": "أسباني",
+    "finish": "",
+    "surface": "لميع",
+    "price": "25$",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4002-1784739325613.jpg",
+    "dateAdded": "2026-07-22",
+    "availability": "متوفر"
+  },
+  {
     "model": "4001",
     "name": "بورسلان ترافلتينو بيج لميع 60x120 سم",
     "category": "بورسلان أرضيات وجدران",
