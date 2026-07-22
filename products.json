@@ -1,5 +1,21 @@
 [
   {
+    "model": "test",
+    "name": "test",
+    "category": "test",
+    "use": "test",
+    "size": "test",
+    "color": "test",
+    "origin": "test",
+    "finish": "test",
+    "surface": "test",
+    "price": "22$",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/test-1784736859393.jpeg",
+    "dateAdded": "2026-07-22",
+    "availability": "متوفر"
+  },
+  {
     "model": "4001",
     "name": "سيراميك",
     "category": "بورسلان أرضيات",
