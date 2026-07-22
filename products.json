@@ -1,5 +1,21 @@
 [
   {
+    "model": "4018",
+    "name": "بورسلان ترافلتينو ابيض مت 100*100",
+    "category": "بورسلان أرضيات",
+    "use": "أرضيات",
+    "size": "100*100",
+    "color": "ترافلتينو ابيض",
+    "origin": "أسباني",
+    "finish": "",
+    "surface": "مت",
+    "price": "24$",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4018-1784740023332.jpg",
+    "dateAdded": "2026-07-22",
+    "availability": "متوفر"
+  },
+  {
     "model": "4004",
     "name": "بورسلان ترافلتينو بيج مت 60x120 سم",
     "category": "بورسلان أرضيات وجدران",
