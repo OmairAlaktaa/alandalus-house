@@ -1,5 +1,21 @@
 [
   {
+    "model": "5004",
+    "name": "كوتا مكس ",
+    "category": "بورسلان مسابح",
+    "use": "مسابح ",
+    "size": "33.3*33.3",
+    "color": "ازرق",
+    "origin": "أسباني",
+    "finish": "",
+    "surface": "لميع",
+    "price": "21",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5004-1784741695495.jpg",
+    "dateAdded": "2026-07-22",
+    "availability": "متوفر"
+  },
+  {
     "model": "5003",
     "name": "بافارو 2 ازول سيراميك لوتس",
     "category": "سيراميك مسابح",
