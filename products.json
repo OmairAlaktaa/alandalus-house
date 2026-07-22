@@ -1,5 +1,21 @@
 [
   {
+    "model": "5007",
+    "name": "كوتا فيردي ",
+    "category": "بورسلان مسابح",
+    "use": "مسابح ",
+    "size": "33.3*33.3",
+    "color": "اخضر",
+    "origin": "أسباني",
+    "finish": "",
+    "surface": "لميع",
+    "price": "21$",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5007-1784741886489.jpg",
+    "dateAdded": "2026-07-22",
+    "availability": "متوفر"
+  },
+  {
     "model": "5006",
     "name": "كوتا توركيسا ",
     "category": "بورسلان مسابح",
