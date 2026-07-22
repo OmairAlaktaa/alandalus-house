@@ -1,5 +1,21 @@
 [
   {
+    "model": "4017",
+    "name": "ارضيات اسباني تجاري 60*120",
+    "category": "بورسلان أرضيات",
+    "use": "أرضيات",
+    "size": "60x120 سم",
+    "color": "رمادي",
+    "origin": "أسباني",
+    "finish": "",
+    "surface": "مت",
+    "price": "18$",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4017-1784740734214.jpg",
+    "dateAdded": "2026-07-22",
+    "availability": "متوفر"
+  },
+  {
     "model": "4016",
     "name": "ارضيات اسباني تجاري 60*120",
     "category": "سيراميك أرضيات",
