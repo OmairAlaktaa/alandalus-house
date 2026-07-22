@@ -1,21 +1,5 @@
 [
   {
-    "model": "4001",
-    "name": "سيراميك",
-    "category": "بورسلان أرضيات",
-    "use": "أرضيات وجدران",
-    "size": "60*120",
-    "color": "بيج",
-    "origin": "أسباني",
-    "finish": "",
-    "surface": "لميع",
-    "price": "25$",
-    "description": "سيراميك حمامات بلون رمادي فاتح، مناسب لجدران الحمام مع مظهر هادئ وفاخر وسهل التنظيف.",
-    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4001-1784736660563.png",
-    "dateAdded": "2026-07-22",
-    "availability": "متوفر"
-  },
-  {
     "model": "AH-001",
     "name": "بورسلان فاخر رمادي 60x120 سم",
     "category": "بورسلان",
