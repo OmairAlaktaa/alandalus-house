@@ -1,5 +1,21 @@
 [
   {
+    "model": "4006",
+    "name": "\tموزاييك مسابح كابري بولورينتو",
+    "category": "مسابح",
+    "use": "مسابح ",
+    "size": "2.5*2.5",
+    "color": "ابيض",
+    "origin": "أسباني",
+    "finish": "",
+    "surface": "لميع",
+    "price": "28$",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4006-1784743372563.jpg",
+    "dateAdded": "2026-07-22",
+    "availability": "متوفر"
+  },
+  {
     "model": "4005",
     "name": "موزاييك مسابح كابري بولورينتو",
     "category": "مسابح",
