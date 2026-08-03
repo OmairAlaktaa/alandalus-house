@@ -1,26 +1,5 @@
 [
   {
-    "model": "test",
-    "name": "test",
-    "category": "test",
-    "use": "test",
-    "size": "test",
-    "color": "test",
-    "origin": "test",
-    "finish": "test",
-    "surface": "test",
-    "price": "99$",
-    "description": "test",
-    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/test-1785780012381.jpg",
-    "images": [
-      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/test-1785780012381.jpg",
-      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/test-1785780015551.jpg",
-      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/test-1785780019759.png"
-    ],
-    "dateAdded": "2026-08-03",
-    "availability": "غير متوفر"
-  },
-  {
     "model": "AGG-05",
     "name": "ابواب wpc",
     "category": "أبواب wpc",
