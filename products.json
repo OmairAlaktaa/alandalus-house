@@ -1,5 +1,26 @@
 [
   {
+    "model": "test",
+    "name": "test",
+    "category": "test",
+    "use": "test",
+    "size": "test",
+    "color": "test",
+    "origin": "test",
+    "finish": "test",
+    "surface": "test",
+    "price": "99$",
+    "description": "test",
+    "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/test-1785780012381.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/test-1785780012381.jpg",
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/test-1785780015551.jpg",
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/test-1785780019759.png"
+    ],
+    "dateAdded": "2026-08-03",
+    "availability": "متوفر"
+  },
+  {
     "model": "AGG-05",
     "name": "ابواب wpc",
     "category": "أبواب wpc",
@@ -12,6 +33,9 @@
     "price": "220$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AGG-05-1785271969104.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AGG-05-1785271969104.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -28,6 +52,9 @@
     "price": "220$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AGG-04-1785271947281.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AGG-04-1785271947281.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -44,6 +71,9 @@
     "price": "220$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AGG-03-1785271927683.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AGG-03-1785271927683.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -60,22 +90,28 @@
     "price": "220$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AGG-02-1785271904409.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AGG-02-1785271904409.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
   {
     "model": "AGG-01",
-    "name": "أبواب wpc ",
+    "name": "أبواب wpc",
     "category": "أبواب wpc",
     "use": "أبواب داخلية",
     "size": "205*98*12",
-    "color": "أبيض وبني ",
+    "color": "أبيض وبني",
     "origin": "صيني",
     "finish": "",
     "surface": "مت",
     "price": "220$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AGG-01-1785271884099.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/AGG-01-1785271884099.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -83,7 +119,7 @@
     "model": "4023",
     "name": "بورسلان مسابح سويرل بلو 15*15",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "15*15",
     "color": "ازرق",
     "origin": "أسباني",
@@ -92,6 +128,9 @@
     "price": "36$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4023-1785264809861.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4023-1785264809861.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -99,7 +138,7 @@
     "model": "4022",
     "name": "بورسلان مسابح بيتش بلو 15*15",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "15*15",
     "color": "ازرق",
     "origin": "أسباني",
@@ -108,6 +147,9 @@
     "price": "36$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4022-1785264437894.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4022-1785264437894.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -115,7 +157,7 @@
     "model": "4021",
     "name": "بورسلان مسابح بيتش جرين 15*15",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "15*15",
     "color": "اخضر",
     "origin": "أسباني",
@@ -124,6 +166,9 @@
     "price": "36$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4021-1785264221961.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4021-1785264221961.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -140,6 +185,9 @@
     "price": "21$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4020-1785270733254.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4020-1785270733254.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -147,7 +195,7 @@
     "model": "4012",
     "name": "موزاييك مسابح أوشن بولورينتو",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "2.5*2.5",
     "color": "ازرق",
     "origin": "أسباني",
@@ -156,6 +204,9 @@
     "price": "28$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4012-1785262469398.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4012-1785262469398.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -163,7 +214,7 @@
     "model": "4011",
     "name": "موزاييك مسابح نيبال باسكين بولورينتو",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "2.5*2.5",
     "color": "ازرق",
     "origin": "أسباني",
@@ -172,6 +223,9 @@
     "price": "24$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4011-1785261602589.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4011-1785261602589.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -179,7 +233,7 @@
     "model": "4010",
     "name": "موزاييك مسابح نيبال ازول بولورينتو",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "2.5*2.5",
     "color": "ازرق",
     "origin": "أسباني",
@@ -188,6 +242,9 @@
     "price": "24$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4010-1785262220394.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4010-1785262220394.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -195,7 +252,7 @@
     "model": "4009",
     "name": "موزاييك مسابح كاريب بولورينتو",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "2.5*2.5",
     "color": "ازرق",
     "origin": "أسباني",
@@ -204,6 +261,9 @@
     "price": "25€",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4009-1785262123895.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4009-1785262123895.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -211,7 +271,7 @@
     "model": "4008",
     "name": "موزاييك مسابح نيبال فيوتشر بولورينتو",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "2.5*2.5",
     "color": "ازرق",
     "origin": "أسباني",
@@ -220,6 +280,9 @@
     "price": "24$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4008-1785261783967.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4008-1785261783967.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -227,7 +290,7 @@
     "model": "4007",
     "name": "موزاييك مسابح جاد بولورينتو",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "2.5*2.5",
     "color": "اخضر",
     "origin": "أسباني",
@@ -236,14 +299,17 @@
     "price": "28$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4007-1785262818683.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4007-1785262818683.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
   {
     "model": "4006",
-    "name": "\tموزاييك مسابح كابري بولورينتو",
+    "name": "موزاييك مسابح كابري بولورينتو",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "2.5*2.5",
     "color": "ابيض",
     "origin": "أسباني",
@@ -252,6 +318,9 @@
     "price": "28$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4006-1785261394576.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4006-1785261394576.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -259,7 +328,7 @@
     "model": "4005",
     "name": "موزاييك مسابح كابري بولورينتو",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "5*5",
     "color": "ابيض",
     "origin": "أسباني",
@@ -268,14 +337,17 @@
     "price": "36$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4005-1785263354594.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4005-1785263354594.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
   {
     "model": "5007",
-    "name": "بورسلان كوتا فيردي ",
+    "name": "بورسلان كوتا فيردي",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "33.3*33.3",
     "color": "اخضر",
     "origin": "أسباني",
@@ -284,14 +356,17 @@
     "price": "21$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5007-1785266622216.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5007-1785266622216.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
   {
     "model": "5006",
-    "name": "بورسلان كوتا توركيسا ",
+    "name": "بورسلان كوتا توركيسا",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "33.3*33.3",
     "color": "ازرق",
     "origin": "أسباني",
@@ -300,14 +375,17 @@
     "price": "21$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5006-1785266563297.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5006-1785266563297.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
   {
     "model": "5005",
-    "name": "بورسلان ميلوس ازول ",
+    "name": "بورسلان ميلوس ازول",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "33.3*33.3",
     "color": "ازرق",
     "origin": "أسباني",
@@ -316,14 +394,17 @@
     "price": "21$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5005-1785266417315.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5005-1785266417315.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
   {
     "model": "5004",
-    "name": "بورسلان كوتا مكس ",
+    "name": "بورسلان كوتا مكس",
     "category": "مسابح",
-    "use": "مسابح ",
+    "use": "مسابح",
     "size": "33.3*33.3",
     "color": "ازرق",
     "origin": "أسباني",
@@ -332,6 +413,9 @@
     "price": "21$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5004-1785266302637.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5004-1785266302637.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -339,7 +423,7 @@
     "model": "5003",
     "name": "سيراميك بافارو 2 ازول لوتس",
     "category": "مسابح",
-    "use": "سيراميك مسابح ",
+    "use": "سيراميك مسابح",
     "size": "33.3*33.3",
     "color": "ازرق",
     "origin": "أسباني",
@@ -348,14 +432,17 @@
     "price": "18$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5003-1785266159532.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5003-1785266159532.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
   {
     "model": "5002",
-    "name": "سيراميك بافارو 12 أزول لوتس ",
+    "name": "سيراميك بافارو 12 أزول لوتس",
     "category": "مسابح",
-    "use": "سيراميك مسابح ",
+    "use": "سيراميك مسابح",
     "size": "33.3*33.3",
     "color": "ازرق",
     "origin": "أسباني",
@@ -364,14 +451,17 @@
     "price": "18$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5002-1785266004578.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5002-1785266004578.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
   {
     "model": "5001",
-    "name": "سيراميك بورتو بلاتا ازول لوتس ",
+    "name": "سيراميك بورتو بلاتا ازول لوتس",
     "category": "مسابح",
-    "use": "سيراميك مسابح ",
+    "use": "سيراميك مسابح",
     "size": "33.3*33.3",
     "color": "ازرق",
     "origin": "أسباني",
@@ -380,6 +470,9 @@
     "price": "18$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5001-1785266207790.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/5001-1785266207790.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -396,6 +489,9 @@
     "price": "18$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4017-1785270070551.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4017-1785270070551.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -412,6 +508,9 @@
     "price": "18$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4016-1785269896100.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4016-1785269896100.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -428,6 +527,9 @@
     "price": "18$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4015-1785269702840.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4015-1785269702840.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -444,6 +546,9 @@
     "price": "18$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4014-1785269502116.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4014-1785269502116.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -460,6 +565,9 @@
     "price": "18$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4013-1785269381102.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4013-1785269381102.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -476,6 +584,9 @@
     "price": "24$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4019-1785267279064.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4019-1785267279064.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -492,6 +603,9 @@
     "price": "24$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4018-1785267514075.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4018-1785267514075.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -508,6 +622,9 @@
     "price": "22$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4004-1785268043703.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4004-1785268043703.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -524,6 +641,9 @@
     "price": "22$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4003-1785268182049.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4003-1785268182049.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -540,6 +660,9 @@
     "price": "25$",
     "description": "",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4002-1785268839209.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4002-1785268839209.jpg"
+    ],
     "dateAdded": "2026-07-22",
     "availability": "متوفر"
   },
@@ -556,6 +679,9 @@
     "price": "25$",
     "description": "بورسلان ترافلتينو ابيض اسباني لميع 60*120",
     "image": "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4001-1785268813706.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/OmairAlaktaa/alandalus-house/main/images/products/4001-1785268813706.jpg"
+    ],
     "dateAdded": "2026-07-14",
     "availability": "متوفر"
   }
